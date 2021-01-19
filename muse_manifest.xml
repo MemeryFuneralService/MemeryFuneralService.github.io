@@ -1,8 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611060779504">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611066249085">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="313249832" ref="phone>index"/>
+      <file name="sky.css" crc="87273813" ref="phone>sky"/>
+      <file name="nomq_sky.css" crc="3824530138" ref="phone>sky"/>
+      <file name="illustration.css" crc="45127347" ref="phone>illustration"/>
+      <file name="menu.css" crc="215982028" ref="phone>menu"/>
+      <file name="weird.css" crc="4204435402" ref="phone>weird"/>
+      <file name="weird2.css" crc="85242511" ref="phone>weird2"/>
+    </folder>
+    <file name="index.html" crc="3905068526" seo="true" mt="1611064779804" redirect="true"/>
+    <file name="weird2.html" crc="4060218330" seo="true" mt="1611066163493" redirect="true"/>
+    <file name="illustration.html" crc="360759627" seo="true" mt="1611066132407" redirect="true"/>
+    <file name="menu.html" crc="3916516640" seo="true" mt="1611065909254" redirect="true"/>
+    <file name="weird.html" crc="3879012489" seo="true" mt="1611066187954" redirect="true"/>
+    <file name="sky.html" crc="4105496946" seo="true" mt="1611066239939" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="weird.css" crc="127942424" ref="weird"/>
-    <file name="sky.css" crc="358015876" ref="sky"/>
+    <file name="sky.css" crc="4046633640" ref="sky"/>
     <file name="nomq_sky.css" crc="335972078" ref="sky"/>
     <file name="index.css" crc="3963500675" ref="index"/>
     <file name="nomq_index.css" crc="458145114" ref="index"/>
@@ -12,18 +29,18 @@
     <file name="illustration.css" crc="235212356" ref="illustration"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sky:weird:menu:illustration:weird2"/>
-    <file name="museutils.js" crc="3803043152" ref="index:sky:weird:menu:illustration:weird2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:sky:weird:menu:illustration:weird2"/>
-    <file name="museconfig.js" crc="380897831" ref="index:sky:weird:menu:illustration:weird2"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:sky:weird:illustration:weird2"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:sky:weird:menu:illustration:weird2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:sky:weird:illustration:weird2:phone>index:phone>illustration:phone>weird:phone>sky"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sky:menu"/>
-    <file name="require.js" crc="4157109226" ref="index:sky:weird:menu:illustration:weird2"/>
+    <file name="require.js" crc="4157109226" ref="index:sky:weird:menu:illustration:weird2:phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="sky:weird2"/>
   </folder>
   <folder name="images">
-    <file name="詩2.jpg" crc="3849279958" ref="index">
+    <file name="詩2.jpg" crc="3849279958" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u142-4.png" crc="223107189" ref="index"/>
@@ -31,11 +48,11 @@
     <file name="u142-42.png" crc="223107189" ref="index"/>
     <file name="u142-4_2x2.png" crc="341972158" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:sky:menu"/>
-    <file name="雲4.png" crc="4188591454" ref="menu">
+    <file name="雲4.png" crc="4188591454" ref="menu:phone>menu">
       <caption webpage="未命名-2" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
-    <file name="雲4_2x.png" crc="3900414265" ref="menu">
+    <file name="雲4_2x.png" crc="3900414265" ref="menu:phone>menu">
       <caption webpage="未命名-2" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
@@ -51,21 +68,21 @@
     <file name="u457-4_2x.png" crc="3783540721" ref="sky"/>
     <file name="u471-4.png" crc="3774275732" ref="sky"/>
     <file name="u471-4_2x.png" crc="3910881072" ref="sky"/>
-    <file name="20201014_095142.gif" crc="300766781" ref="sky">
+    <file name="20201014_095142.gif" crc="300766781" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
-    <file name="46940010.jpg" crc="30128535" ref="sky">
+    <file name="46940010.jpg" crc="3885895582" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
-    <file name="46940010_2x.jpg" crc="4093300046" ref="sky">
+    <file name="46940010_2x.jpg" crc="207499185" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
     <file name="u462-4.png" crc="3760276103" ref="sky"/>
     <file name="u462-4_2x.png" crc="4237027804" ref="sky"/>
-    <file name="469400351.jpg" crc="230739381" ref="sky">
+    <file name="469400351.jpg" crc="230739381" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
-    <file name="469400351_2x.jpg" crc="3948018580" ref="sky">
+    <file name="469400351_2x.jpg" crc="3948018580" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
     <file name="469400141.jpg" crc="1424389" seo="true" ref="sky">
@@ -80,10 +97,10 @@
     </file>
     <file name="u480-4.png" crc="3760276103" ref="sky"/>
     <file name="u480-4_2x.png" crc="4237027804" ref="sky"/>
-    <file name="p_20180716_151157.jpg" crc="4097707953" ref="sky">
+    <file name="p_20180716_151157.jpg" crc="4097707953" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
-    <file name="p_20180716_151157_2x.jpg" crc="33383708" ref="sky">
+    <file name="p_20180716_151157_2x.jpg" crc="33383708" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
     <file name="u498-4.png" crc="3918450720" ref="sky"/>
@@ -163,10 +180,10 @@
     <file name="u883-4_2x2.png" crc="476779950" ref="menu"/>
     <file name="u885-42.png" crc="6961873" ref="menu"/>
     <file name="u885-4_2x2.png" crc="4151169407" ref="menu"/>
-    <file name="p_20180716_150002.jpg" crc="265137543" ref="sky">
+    <file name="p_20180716_150002.jpg" crc="265137543" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
-    <file name="p_20180716_150002_2x.jpg" crc="3762007612" ref="sky">
+    <file name="p_20180716_150002_2x.jpg" crc="3762007612" ref="sky:phone>sky">
       <caption webpage="sky" alt=""/>
     </file>
     <file name="u848-4.png" crc="3918450720" ref="sky"/>
@@ -221,11 +238,57 @@
     </file>
     <file name="u1080-4.png" crc="217524222" ref="weird2"/>
     <file name="u1080-4_2x.png" crc="458998522" ref="weird2"/>
+    <file name="u1449-4.png" crc="3852620091" ref="phone>index"/>
+    <file name="u1449-4_2x.png" crc="429550642" ref="phone>index"/>
+    <file name="u1454-4.png" crc="121725181" ref="phone>index"/>
+    <file name="u1454-4_2x.png" crc="95010824" ref="phone>index"/>
+    <file name="愛心-u1668-fr.jpg" crc="4168314663" ref="phone>illustration"/>
+    <file name="愛心-u1668-fr_2x.jpg" crc="222829438" ref="phone>illustration"/>
+    <file name="輕飄飄-u1669-fr.jpg" crc="4077780840" ref="phone>illustration"/>
+    <file name="輕飄飄-u1669-fr_2x.jpg" crc="66051108" ref="phone>illustration"/>
+    <file name="過飽和2_工作區域 1-u1682-fr.jpg" crc="452473891" ref="phone>illustration"/>
+    <file name="過飽和2_工作區域 1-u1682-fr_2x.jpg" crc="3814663018" ref="phone>illustration"/>
+    <file name="場域_工作區域 1-u1681-fr.jpg" crc="4057500333" ref="phone>illustration"/>
+    <file name="場域_工作區域 1-u1681-fr_2x.jpg" crc="182359753" ref="phone>illustration"/>
+    <file name="u1461-4.png" crc="6807111" ref="phone>menu"/>
+    <file name="u1461-4_2x.png" crc="3846862605" ref="phone>menu"/>
+    <file name="u1463-4.png" crc="525564313" ref="phone>menu"/>
+    <file name="u1463-4_2x.png" crc="4265703082" ref="phone>menu"/>
+    <file name="u1468-4.png" crc="4037095888" ref="phone>menu"/>
+    <file name="u1468-4_2x.png" crc="459131873" ref="phone>menu"/>
+    <file name="u1469-4.png" crc="4020512623" ref="phone>menu"/>
+    <file name="u1469-4_2x.png" crc="4206461907" ref="phone>menu"/>
+    <file name="u1470-4.png" crc="198457711" ref="phone>menu"/>
+    <file name="u1470-4_2x.png" crc="3934515344" ref="phone>menu"/>
+    <file name="u1472-4.png" crc="525564313" ref="phone>menu"/>
+    <file name="u1472-4_2x.png" crc="4265703082" ref="phone>menu"/>
+    <file name="u1465-4.png" crc="3825348693" ref="phone>menu"/>
+    <file name="u1465-4_2x.png" crc="4283345052" ref="phone>menu"/>
+    <file name="160682038982933_p6192582-page-fr.jpg" crc="521250227" ref="phone>weird"/>
+    <file name="160682038982933_p6192582-page-fr_2x.jpg" crc="439100957" ref="phone>weird"/>
+    <file name="u1581-4.png" crc="3861585925" ref="phone>sky"/>
+    <file name="u1581-4_2x.png" crc="3783540721" ref="phone>sky"/>
+    <file name="u1582-4.png" crc="3774275732" ref="phone>sky"/>
+    <file name="u1582-4_2x.png" crc="3910881072" ref="phone>sky"/>
+    <file name="u1626-4.png" crc="3760276103" ref="phone>sky"/>
+    <file name="u1626-4_2x.png" crc="4237027804" ref="phone>sky"/>
+    <file name="469400141380x252.jpg" crc="3789672411" seo="true" ref="phone>sky">
+      <caption webpage="sky" alt=""/>
+    </file>
+    <file name="469400141380x252_2x.jpg" crc="3857705485" seo="true" ref="phone>sky">
+      <caption webpage="sky" alt=""/>
+    </file>
+    <file name="u1627-4.png" crc="3760276103" ref="phone>sky"/>
+    <file name="u1627-4_2x.png" crc="4237027804" ref="phone>sky"/>
+    <file name="u1629-4.png" crc="3918450720" ref="phone>sky"/>
+    <file name="u1629-4_2x.png" crc="437026055" ref="phone>sky"/>
+    <file name="u1583-4.png" crc="4255687965" ref="phone>sky"/>
+    <file name="u1583-4_2x.png" crc="249257542" ref="phone>sky"/>
   </folder>
-  <file name="index.html" crc="4232273112" seo="true" mt="1611060719606" redirect="true"/>
-  <file name="sky.html" crc="451365084" seo="true" mt="1611060139967" redirect="true"/>
-  <file name="weird.html" crc="3943868949" seo="true" mt="1611060356969" redirect="true"/>
-  <file name="menu.html" crc="4069015027" seo="true" mt="1611060434134" redirect="true"/>
-  <file name="illustration.html" crc="3997357478" seo="true" mt="1611060141112" redirect="true"/>
-  <file name="weird2.html" crc="93822935" seo="true" mt="1611060374610" redirect="true"/>
+  <file name="index.html" crc="3829929764" seo="true" mt="1611064671200" redirect="true"/>
+  <file name="sky.html" crc="350560502" seo="true" mt="1611066239937" redirect="true"/>
+  <file name="weird.html" crc="4093668552" seo="true" mt="1611064671405" redirect="true"/>
+  <file name="menu.html" crc="4180161375" seo="true" mt="1611064671326" redirect="true"/>
+  <file name="illustration.html" crc="180058712" seo="true" mt="1611064671283" redirect="true"/>
+  <file name="weird2.html" crc="305398814" seo="true" mt="1611064671242" redirect="true"/>
 </manifest>
