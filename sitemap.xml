@@ -7,12 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appli.com/%E6%9C%AA%E5%91%BD%E5%90%8D-2.html</loc>
-    <lastmod>2021-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://appli.com/sky.html</loc>
     <lastmod>2021-01-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,5 +47,11 @@
     <image:image>
       <image:loc>http://appli.com/images/p_20190623_120730_2x.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://appli.com/menu.html</loc>
+    <lastmod>2021-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

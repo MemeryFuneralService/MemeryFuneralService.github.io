@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611056699408">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611057736686">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="___-2.css" crc="438097973" ref="未命名-2"/>
-    <file name="nomq____-2.css" crc="4243335785" ref="未命名-2"/>
     <file name="weird.css" crc="276405073" ref="weird"/>
     <file name="sky.css" crc="353729516" ref="sky"/>
     <file name="nomq_sky.css" crc="4187704666" ref="sky"/>
     <file name="index.css" crc="515392010" ref="index"/>
     <file name="nomq_index.css" crc="3907748638" ref="index"/>
+    <file name="menu.css" crc="438097973" ref="menu"/>
+    <file name="nomq_menu.css" crc="4243335785" ref="menu"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-2:sky:weird"/>
-    <file name="museutils.js" crc="3803043152" ref="index:未命名-2:sky:weird"/>
-    <file name="whatinput.js" crc="86476730" ref="index:未命名-2:sky:weird"/>
-    <file name="museconfig.js" crc="380897831" ref="index:未命名-2:sky:weird"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sky:weird:menu"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sky:weird:menu"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sky:weird:menu"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sky:weird:menu"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:sky:weird"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:未命名-2:sky:weird"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:未命名-2:sky"/>
-    <file name="require.js" crc="4157109226" ref="index:未命名-2:sky:weird"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sky:weird:menu"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sky:menu"/>
+    <file name="require.js" crc="4157109226" ref="index:sky:weird:menu"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="sky"/>
   </folder>
   <folder name="images">
@@ -28,21 +28,23 @@
     <file name="u142-4_2x.png" crc="3788413596" ref="index"/>
     <file name="u142-42.png" crc="4127894321" ref="index"/>
     <file name="u142-4_2x2.png" crc="3788413596" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:未命名-2:sky"/>
-    <file name="雲4.png" crc="4188591454" ref="未命名-2">
+    <file name="blank.gif" crc="4208392903" ref="index:sky:menu"/>
+    <file name="雲4.png" crc="4188591454" ref="menu">
       <caption webpage="未命名-2" alt=""/>
+      <caption webpage="menu" alt=""/>
     </file>
-    <file name="雲4_2x.png" crc="3900414265" ref="未命名-2">
+    <file name="雲4_2x.png" crc="3900414265" ref="menu">
       <caption webpage="未命名-2" alt=""/>
+      <caption webpage="menu" alt=""/>
     </file>
-    <file name="u154-4.png" crc="100324743" ref="未命名-2"/>
-    <file name="u154-4_2x.png" crc="3935736466" ref="未命名-2"/>
-    <file name="u193-4.png" crc="3826574114" ref="未命名-2"/>
-    <file name="u193-4_2x.png" crc="3963895675" ref="未命名-2"/>
-    <file name="u154-42.png" crc="536834012" ref="未命名-2"/>
-    <file name="u154-4_2x2.png" crc="4256472712" ref="未命名-2"/>
-    <file name="u193-42.png" crc="6961873" ref="未命名-2"/>
-    <file name="u193-4_2x2.png" crc="4151169407" ref="未命名-2"/>
+    <file name="u154-4.png" crc="100324743" ref="menu"/>
+    <file name="u154-4_2x.png" crc="3935736466" ref="menu"/>
+    <file name="u193-4.png" crc="3826574114" ref="menu"/>
+    <file name="u193-4_2x.png" crc="3963895675" ref="menu"/>
+    <file name="u154-42.png" crc="536834012" ref="menu"/>
+    <file name="u154-4_2x2.png" crc="4256472712" ref="menu"/>
+    <file name="u193-42.png" crc="6961873" ref="menu"/>
+    <file name="u193-4_2x2.png" crc="4151169407" ref="menu"/>
     <file name="u457-4.png" crc="3861585925" ref="sky"/>
     <file name="u457-4_2x.png" crc="3783540721" ref="sky"/>
     <file name="u471-4.png" crc="3774275732" ref="sky"/>
@@ -140,8 +142,8 @@
     <file name="u575-4.png" crc="4175141724" ref="weird"/>
     <file name="u575-4_2x.png" crc="340497032" ref="weird"/>
   </folder>
-  <file name="index.html" crc="4055610750" seo="true" mt="1611041729429" redirect="true"/>
-  <file name="未命名-2.html" crc="337337335" seo="true" mt="1611044014784" redirect="true"/>
-  <file name="sky.html" crc="3830048609" seo="true" mt="1611056683780" redirect="true"/>
-  <file name="weird.html" crc="4128749069" seo="true" mt="1611056043448" redirect="true"/>
+  <file name="index.html" crc="3924569877" seo="true" mt="1611057608799" redirect="true"/>
+  <file name="sky.html" crc="174274811" seo="true" mt="1611057593210" redirect="true"/>
+  <file name="weird.html" crc="149810692" seo="true" mt="1611057593207" redirect="true"/>
+  <file name="menu.html" crc="4254266198" seo="true" mt="1611057593215" redirect="true"/>
 </manifest>
