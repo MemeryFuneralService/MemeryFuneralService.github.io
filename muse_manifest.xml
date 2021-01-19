@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611066249085">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1611067053322">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="313249832" ref="phone>index"/>
+      <file name="index.css" crc="395833814" ref="phone>index"/>
       <file name="sky.css" crc="87273813" ref="phone>sky"/>
       <file name="nomq_sky.css" crc="3824530138" ref="phone>sky"/>
       <file name="illustration.css" crc="45127347" ref="phone>illustration"/>
@@ -9,10 +9,10 @@
       <file name="weird.css" crc="4204435402" ref="phone>weird"/>
       <file name="weird2.css" crc="85242511" ref="phone>weird2"/>
     </folder>
-    <file name="index.html" crc="3905068526" seo="true" mt="1611064779804" redirect="true"/>
+    <file name="index.html" crc="3759860902" seo="true" mt="1611067023947" redirect="true"/>
     <file name="weird2.html" crc="4060218330" seo="true" mt="1611066163493" redirect="true"/>
     <file name="illustration.html" crc="360759627" seo="true" mt="1611066132407" redirect="true"/>
-    <file name="menu.html" crc="3916516640" seo="true" mt="1611065909254" redirect="true"/>
+    <file name="menu.html" crc="4003302234" seo="true" mt="1611067039371" redirect="true"/>
     <file name="weird.html" crc="3879012489" seo="true" mt="1611066187954" redirect="true"/>
     <file name="sky.html" crc="4105496946" seo="true" mt="1611066239939" redirect="true"/>
   </folder>
