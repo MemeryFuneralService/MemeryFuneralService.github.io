@@ -2,16 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://appli.com/index.html</loc>
-    <lastmod>2021-05-12</lastmod>
+    <lastmod>2021-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://appli.com/phone/illustration.html</loc>
-    <lastmod>2021-05-12</lastmod>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appli.com/phone/weird.html</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appli.com/ill.html</loc>
+    <lastmod>2021-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%86%B6%E8%B5%B7%E6%94%BE%E5%90%A7%20ps-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%86%B6%E8%B5%B7%E6%94%BE%E5%90%A7%20ps-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%BD%88%E7%B0%A72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%BD%88%E7%B0%A72_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E7%B6%93%E5%85%B8%E9%85%92%E5%B1%95.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E4%BA%94%E5%80%8D%E5%8D%B7%20-%E5%B7%B2%E5%BE%A9%E5%8E%9F-%E4%BA%8C_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E4%BA%94%E5%80%8D%E5%8D%B7%20-%E5%B7%B2%E5%BE%A9%E5%8E%9F-%E4%BA%8C_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%B0%8F%E5%B0%8F%E8%AA%B2%E5%BE%8C2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%B0%8F%E5%B0%8F%E8%AA%B2%E5%BE%8C2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%80%AB%E6%B3%A2_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%80%AB%E6%B3%A2_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appli.com/menu.html</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/menu.html"/>
   </url>
   <url>
     <loc>http://appli.com/sky.html</loc>
@@ -33,27 +85,127 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appli.com/menu.html</loc>
-    <lastmod>2021-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/menu.html"/>
-  </url>
-  <url>
     <loc>http://appli.com/phone/weird2.html</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appli.com/weird.html</loc>
-    <lastmod>2021-05-12</lastmod>
+    <loc>http://appli.com/drawing.html</loc>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/weird.html"/>
     <image:image>
-      <image:loc>http://appli.com/images/4.jpg</image:loc>
+      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u23172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/logo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/goat.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/goat_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001261x262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001261x262_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%A4%9C%E6%99%9A%E7%9A%84%E8%81%B2%E9%9F%B3_001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%A4%9C%E6%99%9A%E7%9A%84%E8%81%B2%E9%9F%B3_001_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B7%B7=%E8%BF%91%E4%B9%8E%E7%98%8B%E7%8B%82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B7%B7=%E8%BF%91%E4%B9%8E%E7%98%8B%E7%8B%82_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%8F%92%E5%9C%9612jpg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%8F%92%E5%9C%9612jpg_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%AB1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%AB1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%A4%9C%E6%99%9A%E7%9A%84%E8%81%B2%E9%9F%B3_001189x268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E5%A4%9C%E6%99%9A%E7%9A%84%E8%81%B2%E9%9F%B3_001189x268_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B7%B7=%E8%BF%91%E4%B9%8E%E7%98%8B%E7%8B%82229x305.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B7%B7=%E8%BF%91%E4%B9%8E%E7%98%8B%E7%8B%82229x305_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90318x450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90318x450_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/goat318x450.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/goat318x450_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%8F%92%E5%9C%9612jpg307x453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%8F%92%E5%9C%9612jpg307x453_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%AB1319x451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%AB1319x451_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/logo217x217.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appli.com/2019.html</loc>
+    <lastmod>2021-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://appli.com/images/1573573680008.jpg</image:loc>
     </image:image>
@@ -78,95 +230,179 @@
     <image:image>
       <image:loc>http://appli.com/images/img_0603_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/smuf-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/smuf-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/dsc01693.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/dsc01693_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20200329_133830.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20200329_133830_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/murf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/murf_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/4465x226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/4465x226_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://appli.com/posters.html</loc>
-    <lastmod>2021-05-12</lastmod>
+    <loc>http://appli.com/years.html</loc>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%86%B6%E8%B5%B7%E6%94%BE%E5%90%A7%20ps-01.png</image:loc>
+      <image:loc>http://appli.com/images/4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%86%B6%E8%B5%B7%E6%94%BE%E5%90%A7%20ps-01_2x.png</image:loc>
+      <image:loc>http://appli.com/images/smuf1-01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%B3%B0%E6%A5%AD%E6%B5%B7%E5%A0%B12.png</image:loc>
+      <image:loc>http://appli.com/images/smuf1-01_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%B3%B0%E6%A5%AD%E6%B5%B7%E5%A0%B12_2x.png</image:loc>
+      <image:loc>http://appli.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201366x768-crop-u4079.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E7%86%B1%E6%83%85%E9%80%90%E6%BC%B8%E6%BE%86%E7%86%841.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201366x768-crop-u4079_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E7%86%B1%E6%83%85%E9%80%90%E6%BC%B8%E6%BE%86%E7%86%841_2x.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201366x768-crop-u4070.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201366x768-crop-u4070_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-021_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/dsc_0414496x279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/dsc_0414496x279_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/smuf-01223x311.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/smuf-01223x311_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/1573573680008285x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/1573573680008285x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20191110_154112161x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20191110_154112161x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-032.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-032_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%903.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%903_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/img_2308.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/img_2308_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/img_2456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/img_2456_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%906.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%906_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://appli.com/illustrations.html</loc>
-    <lastmod>2021-05-12</lastmod>
+    <loc>http://appli.com/2020.html</loc>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001631x631.jpg</image:loc>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-0212.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001631x631_2x.jpg</image:loc>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-021_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90398x563.jpg</image:loc>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-0322.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90398x563_2x.jpg</image:loc>
+      <image:loc>http://appli.com/images/a0807126%E4%B8%BB%E8%BB%B8-032_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/logo270x270.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E4%B8%BB%E8%A6%96%E8%A6%BA.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/logo270x270_2x.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E4%B8%BB%E8%A6%96%E8%A6%BA_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appli.com/2021.html</loc>
+    <lastmod>2021-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%90.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E6%B2%99%E5%AD%90_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317_2x.jpg</image:loc>
+      <image:loc>http://appli.com/images/p_20190807_171752.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/goat398x563.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/goat398x563_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001503x503.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001503x503_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90317x449.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%81%90%E6%80%96%E5%88%86%E5%AD%90317x449_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/logo217x217.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/logo217x217_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u23172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/1%E8%A1%A3%E6%9C%8D-crop-u2317_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/goat317x449.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/goat317x449_2x.png</image:loc>
+      <image:loc>http://appli.com/images/p_20190807_171752_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
