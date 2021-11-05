@@ -1,52 +1,49 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1632765636247">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appli.com" resolutions="1x,2x" timestamp="1636119172082">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4212654922" ref="index"/>
     <file name="nomq_index.css" crc="108371040" ref="index"/>
-    <file name="menu.css" crc="4231474460" ref="menu"/>
-    <file name="nomq_menu.css" crc="3772946449" ref="menu"/>
-    <file name="sky.css" crc="4245825532" ref="sky"/>
+    <file name="menu.css" crc="181187367" ref="menu"/>
+    <file name="nomq_menu.css" crc="246541843" ref="menu"/>
+    <file name="sky.css" crc="130395499" ref="sky"/>
     <file name="nomq_sky.css" crc="3956775122" ref="sky"/>
-    <file name="drawing.css" crc="217818317" ref="drawing"/>
-    <file name="nomq_drawing.css" crc="3870721306" ref="drawing"/>
-    <file name="ill.css" crc="4046751015" ref="ill"/>
-    <file name="years.css" crc="3777967313" ref="years"/>
-    <file name="2019.css" crc="524446938" ref="2019"/>
+    <file name="drawing.css" crc="445016616" ref="drawing"/>
+    <file name="nomq_drawing.css" crc="3797730546" ref="drawing"/>
+    <file name="ill.css" crc="4239200269" ref="ill"/>
+    <file name="years.css" crc="212086329" ref="years"/>
+    <file name="2019.css" crc="4132565776" ref="2019"/>
     <file name="2020.css" crc="3868250261" ref="2020"/>
-    <file name="2021.css" crc="4006610546" ref="2021"/>
+    <file name="2021.css" crc="3933940232" ref="2021"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>illustration:phone>weird:phone>sky:index:menu:sky:ill"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>weird2:phone>illustration:phone>menu:phone>weird:phone>sky:index:menu:sky:ill:drawing:2019:years:2020:2021"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index:menu:sky:ill:phone>poster:phone>draw:phone>photo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>menu:index:menu:sky:ill:drawing:2019:years:2020:2021:phone>work:phone>poster:phone>draw:phone>photo"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:menu:sky:drawing"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="sky:ill"/>
   </folder>
   <folder name="images">
-    <file name="詩2.jpg" crc="3849279958" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1449-4.png" crc="3852620091" ref="phone>index"/>
-    <file name="u1449-4_2x.png" crc="429550642" ref="phone>index"/>
-    <file name="u1454-4.png" crc="121725181" ref="phone>index"/>
-    <file name="u1454-4_2x.png" crc="95010824" ref="phone>index"/>
-    <file name="愛心-u1668-fr.jpg" crc="4168314663" ref="phone>illustration"/>
-    <file name="愛心-u1668-fr_2x.jpg" crc="222829438" ref="phone>illustration"/>
-    <file name="輕飄飄-u1669-fr.jpg" crc="4077780840" ref="phone>illustration"/>
-    <file name="輕飄飄-u1669-fr_2x.jpg" crc="66051108" ref="phone>illustration"/>
-    <file name="過飽和2_工作區域 1-u1682-fr.jpg" crc="4037645437" ref="phone>illustration"/>
-    <file name="過飽和2_工作區域 1-u1682-fr_2x.jpg" crc="4005062579" ref="phone>illustration"/>
-    <file name="場域_工作區域 1.jpg" crc="3974133243" ref="phone>illustration">
+    <file name="u1449-4.png" crc="12573711" ref="phone>index"/>
+    <file name="u1449-4_2x.png" crc="4056396050" ref="phone>index"/>
+    <file name="愛心-u1668-fr.jpg" crc="4168314663" ref="phone>poster"/>
+    <file name="愛心-u1668-fr_2x.jpg" crc="222829438" ref="phone>poster"/>
+    <file name="輕飄飄-u1669-fr.jpg" crc="4077780840" ref="phone>poster"/>
+    <file name="輕飄飄-u1669-fr_2x.jpg" crc="66051108" ref="phone>poster"/>
+    <file name="過飽和2_工作區域 1-u1682-fr.jpg" crc="4037645437" ref="phone>poster"/>
+    <file name="過飽和2_工作區域 1-u1682-fr_2x.jpg" crc="4005062579" ref="phone>poster"/>
+    <file name="場域_工作區域 1.jpg" crc="3974133243" ref="phone>poster">
       <caption webpage="illustration" alt=""/>
       <caption webpage="ill" alt=""/>
+      <caption webpage="poster" alt=""/>
     </file>
-    <file name="場域_工作區域 1_2x.jpg" crc="3921030825" ref="phone>illustration">
+    <file name="場域_工作區域 1_2x.jpg" crc="3921030825" ref="phone>poster">
       <caption webpage="illustration" alt=""/>
       <caption webpage="ill" alt=""/>
+      <caption webpage="poster" alt=""/>
     </file>
     <file name="雲4.png" crc="4188591454" ref="phone>menu">
       <caption webpage="menu" alt=""/>
@@ -54,90 +51,83 @@
     <file name="雲4_2x.png" crc="3900414265" ref="phone>menu">
       <caption webpage="menu" alt=""/>
     </file>
-    <file name="u1461-4.png" crc="6807111" ref="phone>menu"/>
-    <file name="u1461-4_2x.png" crc="3846862605" ref="phone>menu"/>
-    <file name="u1463-4.png" crc="525564313" ref="phone>menu"/>
-    <file name="u1463-4_2x.png" crc="4265703082" ref="phone>menu"/>
-    <file name="u1468-4.png" crc="4037095888" ref="phone>menu"/>
-    <file name="u1468-4_2x.png" crc="459131873" ref="phone>menu"/>
-    <file name="u1469-4.png" crc="4020512623" ref="phone>menu"/>
-    <file name="u1469-4_2x.png" crc="4206461907" ref="phone>menu"/>
+    <file name="u1468-4.png" crc="4128194678" ref="phone>menu"/>
+    <file name="u1468-4_2x.png" crc="3896241548" ref="phone>menu"/>
     <file name="u1470-4.png" crc="198457711" ref="phone>menu"/>
     <file name="u1470-4_2x.png" crc="3934515344" ref="phone>menu"/>
-    <file name="u1472-4.png" crc="525564313" ref="phone>menu"/>
-    <file name="u1472-4_2x.png" crc="4265703082" ref="phone>menu"/>
-    <file name="u1465-4.png" crc="3825348693" ref="phone>menu"/>
-    <file name="u1465-4_2x.png" crc="4283345052" ref="phone>menu"/>
-    <file name="160682038982933_p6192582.jpg" crc="71907100" ref="phone>weird">
+    <file name="u1465-4.png" crc="410329297" ref="phone>menu"/>
+    <file name="u1465-4_2x.png" crc="378013662" ref="phone>menu"/>
+    <file name="160682038982933_p6192582.jpg" crc="71907100" ref="phone>draw">
+      <caption webpage="draw" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="160682038982933_p6192582_2x.jpg" crc="439100957" ref="phone>weird">
+    <file name="160682038982933_p6192582_2x.jpg" crc="439100957" ref="phone>draw">
+      <caption webpage="draw" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="20201014_095142.gif" crc="300766781" ref="phone>sky:sky">
+    <file name="20201014_095142.gif" crc="300766781" ref="sky:phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="u1581-4.png" crc="3861585925" ref="phone>sky"/>
-    <file name="u1581-4_2x.png" crc="3783540721" ref="phone>sky"/>
-    <file name="469400351.jpg" crc="230739381" ref="phone>sky:sky">
+    <file name="u1581-4.png" crc="3861585925" ref="phone>photo"/>
+    <file name="u1581-4_2x.png" crc="3783540721" ref="phone>photo"/>
+    <file name="469400351.jpg" crc="230739381" ref="sky:phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="469400351_2x.jpg" crc="3948018580" ref="phone>sky:sky">
+    <file name="469400351_2x.jpg" crc="3948018580" ref="sky:phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="u1582-4.png" crc="3774275732" ref="phone>sky"/>
-    <file name="u1582-4_2x.png" crc="3910881072" ref="phone>sky"/>
-    <file name="46940010.jpg" crc="3885895582" ref="phone>sky:sky">
+    <file name="u1582-4.png" crc="3774275732" ref="phone>photo"/>
+    <file name="u1582-4_2x.png" crc="3910881072" ref="phone>photo"/>
+    <file name="46940010.jpg" crc="3885895582" ref="sky:phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="46940010_2x.jpg" crc="207499185" ref="phone>sky:sky">
+    <file name="46940010_2x.jpg" crc="207499185" ref="sky:phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="u1626-4.png" crc="3760276103" ref="phone>sky"/>
-    <file name="u1626-4_2x.png" crc="4237027804" ref="phone>sky"/>
-    <file name="469400141380x252.jpg" crc="3789672411" seo="true" ref="phone>sky">
+    <file name="u1626-4.png" crc="3760276103" ref="phone>photo"/>
+    <file name="u1626-4_2x.png" crc="4237027804" ref="phone>photo"/>
+    <file name="469400141380x252.jpg" crc="3789672411" seo="true" ref="phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="469400141380x252_2x.jpg" crc="3857705485" seo="true" ref="phone>sky">
+    <file name="469400141380x252_2x.jpg" crc="3857705485" seo="true" ref="phone>photo">
       <caption webpage="sky" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
-    <file name="u1627-4.png" crc="3760276103" ref="phone>sky"/>
-    <file name="u1627-4_2x.png" crc="4237027804" ref="phone>sky"/>
-    <file name="p_20180716_150002-u1628-fr.jpg" crc="373592211" ref="phone>sky"/>
-    <file name="p_20180716_150002-u1628-fr_2x.jpg" crc="211658690" ref="phone>sky"/>
-    <file name="u1629-4.png" crc="3918450720" ref="phone>sky"/>
-    <file name="u1629-4_2x.png" crc="437026055" ref="phone>sky"/>
-    <file name="u1583-4.png" crc="4255687965" ref="phone>sky"/>
-    <file name="u1583-4_2x.png" crc="249257542" ref="phone>sky"/>
-    <file name="p_20180716_151157-u1584-fr.jpg" crc="3948343007" ref="phone>sky"/>
-    <file name="p_20180716_151157-u1584-fr_2x.jpg" crc="44330015" ref="phone>sky"/>
+    <file name="u1627-4.png" crc="3760276103" ref="phone>photo"/>
+    <file name="u1627-4_2x.png" crc="4237027804" ref="phone>photo"/>
+    <file name="p_20180716_150002-u1628-fr.jpg" crc="373592211" ref="phone>photo"/>
+    <file name="p_20180716_150002-u1628-fr_2x.jpg" crc="211658690" ref="phone>photo"/>
+    <file name="u1629-4.png" crc="3918450720" ref="phone>photo"/>
+    <file name="u1629-4_2x.png" crc="437026055" ref="phone>photo"/>
+    <file name="u1583-4.png" crc="4255687965" ref="phone>photo"/>
+    <file name="u1583-4_2x.png" crc="249257542" ref="phone>photo"/>
+    <file name="p_20180716_151157-u1584-fr.jpg" crc="3948343007" ref="phone>photo"/>
+    <file name="p_20180716_151157-u1584-fr_2x.jpg" crc="44330015" ref="phone>photo"/>
     <file name="p_20180716_151157.jpg" crc="135378267" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:menu:sky:drawing"/>
+    <file name="blank.gif" crc="4208392903" ref="index:menu:sky:drawing:2019"/>
     <file name="img_20180801_154900311.jpg" crc="246953407" ref="menu">
       <caption webpage="menu" alt=""/>
     </file>
     <file name="u871-4.png" crc="104804251" ref="menu"/>
     <file name="u871-4_2x.png" crc="280573311" ref="menu"/>
-    <file name="u193-5.png" crc="363501177" ref="menu"/>
-    <file name="u193-5_2x.png" crc="3975821029" ref="menu"/>
     <file name="u812-4.png" crc="3885415168" ref="menu"/>
     <file name="u812-4_2x.png" crc="308855922" ref="menu"/>
-    <file name="u877-4.png" crc="381333283" ref="menu"/>
-    <file name="u877-4_2x.png" crc="3823568166" ref="menu"/>
-    <file name="u883-4.png" crc="3905357001" ref="menu"/>
-    <file name="u883-4_2x.png" crc="4205972198" ref="menu"/>
+    <file name="u883-4.png" crc="458461584" ref="menu"/>
+    <file name="u883-4_2x.png" crc="4118579265" ref="menu"/>
     <file name="u812-42.png" crc="262020118" ref="menu"/>
     <file name="u812-4_2x2.png" crc="92822971" ref="menu"/>
     <file name="u871-42.png" crc="527506410" ref="menu"/>
     <file name="u871-4_2x2.png" crc="3858780087" ref="menu"/>
-    <file name="u193-52.png" crc="3897798233" ref="menu"/>
-    <file name="u193-5_2x2.png" crc="3826993067" ref="menu"/>
-    <file name="u877-42.png" crc="4142473876" ref="menu"/>
-    <file name="u877-4_2x2.png" crc="339485866" ref="menu"/>
-    <file name="u883-42.png" crc="494924685" ref="menu"/>
-    <file name="u883-4_2x2.png" crc="3963805165" ref="menu"/>
+    <file name="u883-42.png" crc="3792840025" ref="menu"/>
+    <file name="u883-4_2x2.png" crc="4181497895" ref="menu"/>
     <file name="u457-4.png" crc="3861585925" ref="sky"/>
     <file name="u457-4_2x.png" crc="3783540721" ref="sky"/>
     <file name="u462-4.png" crc="3760276103" ref="sky"/>
@@ -202,10 +192,10 @@
     <file name="u848-4_2x3.png" crc="437026055" ref="sky"/>
     <file name="4.jpg" crc="299517057" seo="true" ref="years">
       <caption webpage="2019" alt=""/>
-      <caption webpage="years" alt=""/>
       <caption webpage="weird" alt=""/>
+      <caption webpage="years" alt=""/>
     </file>
-    <file name="1573573680008.jpg" crc="3916196412" seo="true" ref="2019">
+    <file name="1573573680008.jpg" crc="3884714071" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
@@ -213,27 +203,27 @@
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="p_20191110_154112.jpg" crc="129802212" seo="true" ref="2019">
+    <file name="p_20191110_154112.jpg" crc="172370742" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="p_20191110_154112_2x.jpg" crc="239576419" seo="true" ref="2019">
+    <file name="p_20191110_154112_2x.jpg" crc="3808184153" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="dsc_0414.jpg" crc="88817867" seo="true" ref="2019">
+    <file name="dsc_0414.jpg" crc="4092301839" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="dsc_0414_2x.jpg" crc="76614950" seo="true" ref="2019">
+    <file name="dsc_0414_2x.jpg" crc="4049636999" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="img_0603.jpg" crc="495265925" seo="true" ref="2019">
+    <file name="img_0603.jpg" crc="3872383303" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
-    <file name="img_0603_2x.jpg" crc="376343367" seo="true" ref="2019">
+    <file name="img_0603_2x.jpg" crc="462906289" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="weird" alt=""/>
     </file>
@@ -271,21 +261,21 @@
       <caption webpage="posters" alt=""/>
       <caption webpage="ill" alt=""/>
     </file>
-    <file name="1衣服-crop-u2317.jpg" crc="452450242" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
+    <file name="1衣服-crop-u2317.jpg" crc="3773729136" seo="true" ref="drawing">
       <caption webpage="illustrations" alt=""/>
+      <caption webpage="drawing" alt=""/>
     </file>
-    <file name="1衣服-crop-u2317_2x.jpg" crc="516714597" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
+    <file name="1衣服-crop-u2317_2x.jpg" crc="257985001" seo="true" ref="drawing">
       <caption webpage="illustrations" alt=""/>
+      <caption webpage="drawing" alt=""/>
     </file>
-    <file name="1衣服-crop-u23172.jpg" crc="3907620230" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
+    <file name="1衣服-crop-u23172.jpg" crc="279849390" seo="true" ref="drawing">
       <caption webpage="illustrations" alt=""/>
+      <caption webpage="drawing" alt=""/>
     </file>
-    <file name="1衣服-crop-u2317_2x2.jpg" crc="86389091" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
+    <file name="1衣服-crop-u2317_2x2.jpg" crc="47455355" seo="true" ref="drawing">
       <caption webpage="illustrations" alt=""/>
+      <caption webpage="drawing" alt=""/>
     </file>
     <file name="u142-14.png" crc="3826257183" ref="index"/>
     <file name="u142-14_2x.png" crc="3790309977" ref="index"/>
@@ -330,11 +320,11 @@
     <file name="u3651-6_2x2.png" crc="46509228" ref="index"/>
     <file name="u3666-62.png" crc="517687377" ref="index"/>
     <file name="u3666-6_2x2.png" crc="428198336" ref="index"/>
-    <file name="smuf-01.png" crc="4264146671" seo="true" ref="2019">
+    <file name="smuf-01.png" crc="4083091078" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="years" alt=""/>
     </file>
-    <file name="smuf-01_2x.png" crc="477343633" seo="true" ref="2019">
+    <file name="smuf-01_2x.png" crc="228343716" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
       <caption webpage="years" alt=""/>
     </file>
@@ -344,22 +334,22 @@
     <file name="smuf1-01_2x.jpg" crc="10900824" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="貼上的影像 1366x768-crop-u4079.jpg" crc="4041563358" seo="true" ref="years">
+    <file name="貼上的影像 1366x768-crop-u4079.jpg" crc="104016886" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="貼上的影像 1366x768-crop-u4079_2x.jpg" crc="215336178" seo="true" ref="years">
+    <file name="貼上的影像 1366x768-crop-u4079_2x.jpg" crc="433206442" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="貼上的影像 1366x768-crop-u4070.jpg" crc="4219958546" seo="true" ref="years">
+    <file name="貼上的影像 1366x768-crop-u4070.jpg" crc="3836506696" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="貼上的影像 1366x768-crop-u4070_2x.jpg" crc="4237186771" seo="true" ref="years">
+    <file name="貼上的影像 1366x768-crop-u4070_2x.jpg" crc="332943396" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="a0807126主軸-021.jpg" crc="3896756146" seo="true" ref="years">
+    <file name="a0807126主軸-021.jpg" crc="100693396" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="a0807126主軸-021_2x.jpg" crc="4240151589" seo="true" ref="years">
+    <file name="a0807126主軸-021_2x.jpg" crc="4037311740" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
     <file name="4_2x.jpg" crc="3892707670" seo="true" ref="years">
@@ -378,22 +368,16 @@
     <file name="9_2x.jpg" crc="4290961960" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
     </file>
-    <file name="dsc01693.jpg" crc="4135944978" seo="true" ref="2019">
+    <file name="p_20200329_133830.jpg" crc="464611528" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
     </file>
-    <file name="dsc01693_2x.jpg" crc="3801176322" seo="true" ref="2019">
+    <file name="p_20200329_133830_2x.jpg" crc="263433413" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
     </file>
-    <file name="p_20200329_133830.jpg" crc="77785630" seo="true" ref="2019">
+    <file name="murf.jpg" crc="3980745913" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
     </file>
-    <file name="p_20200329_133830_2x.jpg" crc="84933757" seo="true" ref="2019">
-      <caption webpage="2019" alt=""/>
-    </file>
-    <file name="murf.jpg" crc="4076272146" seo="true" ref="2019">
-      <caption webpage="2019" alt=""/>
-    </file>
-    <file name="murf_2x.jpg" crc="193224929" seo="true" ref="2019">
+    <file name="murf_2x.jpg" crc="438324225" seo="true" ref="2019">
       <caption webpage="2019" alt=""/>
     </file>
     <file name="u4331-4.png" crc="314949846" ref="2019"/>
@@ -404,10 +388,10 @@
     <file name="漫畫fb內頁_001_2x.jpg" crc="355044253" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="恐怖分子.jpg" crc="4161486078" seo="true" ref="drawing">
+    <file name="恐怖分子.jpg" crc="336986003" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="恐怖分子_2x.jpg" crc="3949084016" seo="true" ref="drawing">
+    <file name="恐怖分子_2x.jpg" crc="261169757" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
     <file name="logo.jpg" crc="211299518" seo="true" ref="drawing">
@@ -415,18 +399,17 @@
     </file>
     <file name="logo_2x.jpg" crc="249237739" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="goat.png" crc="324364824" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="goat.png" crc="301801332" seo="true" ref="drawing">
+    <file name="goat_2x.png" crc="4128235483" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="goat_2x.png" crc="4217248329" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
-    </file>
-    <file name="dsc_0414496x279.jpg" crc="66712024" seo="true" ref="years">
+    <file name="dsc_0414496x279.jpg" crc="4254820661" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="dsc_0414496x279_2x.jpg" crc="3823808448" seo="true" ref="years">
+    <file name="dsc_0414496x279_2x.jpg" crc="272131966" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
     <file name="smuf-01223x311.png" crc="4184678097" seo="true" ref="years">
@@ -441,16 +424,16 @@
     <file name="1573573680008285x214_2x.jpg" crc="3862969329" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="p_20191110_154112161x214.jpg" crc="4236208311" seo="true" ref="years">
+    <file name="p_20191110_154112161x214.jpg" crc="3985460696" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="p_20191110_154112161x214_2x.jpg" crc="15803604" seo="true" ref="years">
+    <file name="p_20191110_154112161x214_2x.jpg" crc="133992152" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="a0807126主軸-032.jpg" crc="361820105" seo="true" ref="years">
+    <file name="a0807126主軸-032.jpg" crc="4061310849" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="a0807126主軸-032_2x.jpg" crc="4220215920" seo="true" ref="years">
+    <file name="a0807126主軸-032_2x.jpg" crc="341757038" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
     <file name="4465x226.jpg" crc="4057028400" seo="true" ref="2019">
@@ -477,82 +460,76 @@
     <file name="倫波_工作區域 1_2x.jpg" crc="11761058" seo="true" ref="ill">
       <caption webpage="ill" alt=""/>
     </file>
-    <file name="u2261-6.png" crc="4024269037" ref="drawing"/>
-    <file name="u2261-6_2x.png" crc="4031185556" ref="drawing"/>
-    <file name="漫畫fb內頁_001261x262.jpg" crc="3869461985" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
-    </file>
-    <file name="漫畫fb內頁_001261x262_2x.jpg" crc="4259563176" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
-    </file>
+    <file name="u2261-6.png" crc="3804016514" ref="drawing"/>
+    <file name="u2261-6_2x.png" crc="4201022189" ref="drawing"/>
     <file name="u2258-5.png" crc="296500597" ref="drawing"/>
     <file name="u2258-5_2x.png" crc="4068955048" ref="drawing"/>
-    <file name="夜晚的聲音_001.jpg" crc="71665979" seo="true" ref="drawing">
+    <file name="夜晚的聲音_001.jpg" crc="387998341" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="夜晚的聲音_001_2x.jpg" crc="220204079" seo="true" ref="drawing">
+    <file name="夜晚的聲音_001_2x.jpg" crc="22261025" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
     <file name="u4868-5.png" crc="3905976456" ref="drawing"/>
     <file name="u4868-5_2x.png" crc="4225528496" ref="drawing"/>
-    <file name="混=近乎瘋狂.jpg" crc="3809091604" seo="true" ref="drawing">
+    <file name="混=近乎瘋狂.jpg" crc="263500810" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="混=近乎瘋狂_2x.jpg" crc="46742765" seo="true" ref="drawing">
+    <file name="混=近乎瘋狂_2x.jpg" crc="4007804405" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="插圖12jpg.jpg" crc="3802293409" seo="true" ref="drawing">
+    <file name="插圖12jpg.jpg" crc="386847526" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="插圖12jpg_2x.jpg" crc="3911696288" seo="true" ref="drawing">
+    <file name="插圖12jpg_2x.jpg" crc="4209667264" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="漫畫1.jpg" crc="527619660" seo="true" ref="drawing">
+    <file name="漫畫1.jpg" crc="4100021633" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="漫畫1_2x.jpg" crc="3937097121" seo="true" ref="drawing">
+    <file name="漫畫1_2x.jpg" crc="155056589" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="u2261-62.png" crc="4024269037" ref="drawing"/>
-    <file name="u2261-6_2x2.png" crc="4031185556" ref="drawing"/>
-    <file name="夜晚的聲音_001189x268.jpg" crc="3984899426" seo="true" ref="drawing">
+    <file name="u2261-62.png" crc="3804016514" ref="drawing"/>
+    <file name="u2261-6_2x2.png" crc="4201022189" ref="drawing"/>
+    <file name="夜晚的聲音_001189x268.jpg" crc="4202449867" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="夜晚的聲音_001189x268_2x.jpg" crc="4026046006" seo="true" ref="drawing">
+    <file name="夜晚的聲音_001189x268_2x.jpg" crc="138716854" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="混=近乎瘋狂229x305.jpg" crc="3936139168" seo="true" ref="drawing">
+    <file name="混=近乎瘋狂229x305.jpg" crc="4059166456" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="混=近乎瘋狂229x305_2x.jpg" crc="228452235" seo="true" ref="drawing">
+    <file name="混=近乎瘋狂229x305_2x.jpg" crc="37716171" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
     <file name="u2258-52.png" crc="4031796712" ref="drawing"/>
     <file name="u2258-5_2x2.png" crc="3948055887" ref="drawing"/>
     <file name="u4868-52.png" crc="315832449" ref="drawing"/>
     <file name="u4868-5_2x2.png" crc="379238179" ref="drawing"/>
-    <file name="恐怖分子318x450.jpg" crc="4177791358" seo="true" ref="drawing">
+    <file name="恐怖分子318x450.jpg" crc="450913962" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="恐怖分子318x450_2x.jpg" crc="4126439139" seo="true" ref="drawing">
+    <file name="恐怖分子318x450_2x.jpg" crc="260626895" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="goat318x450.png" crc="4078671335" seo="true" ref="drawing">
+    <file name="goat318x450.png" crc="3869174879" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="goat318x450_2x.png" crc="371111686" seo="true" ref="drawing">
+    <file name="goat318x450_2x.png" crc="4128235483" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="插圖12jpg307x453.jpg" crc="30104790" seo="true" ref="drawing">
+    <file name="插圖12jpg307x453.jpg" crc="435108716" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="插圖12jpg307x453_2x.jpg" crc="85398659" seo="true" ref="drawing">
+    <file name="插圖12jpg307x453_2x.jpg" crc="116656889" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="漫畫1319x451.jpg" crc="3964882436" seo="true" ref="drawing">
+    <file name="漫畫1319x451.jpg" crc="80563459" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="漫畫1319x451_2x.jpg" crc="27184700" seo="true" ref="drawing">
+    <file name="漫畫1319x451_2x.jpg" crc="4211540929" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
     <file name="a0807126主軸-0212.jpg" crc="39087361" seo="true" ref="2020">
@@ -591,10 +568,7 @@
     </file>
     <file name="u5404-4.png" crc="112526558" ref="2021"/>
     <file name="u5404-4_2x.png" crc="3876006445" ref="2021"/>
-    <file name="logo217x217.jpg" crc="211299518" seo="true" ref="drawing">
-      <caption webpage="drawing" alt=""/>
-    </file>
-    <file name="沙子3.jpg" crc="4128141178" seo="true" ref="years">
+    <file name="沙子3.jpg" crc="3834971634" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
     <file name="沙子3_2x.jpg" crc="137037554" seo="true" ref="years">
@@ -612,39 +586,179 @@
     <file name="img_2456_2x.jpg" crc="4130812671" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
-    <file name="沙子6.jpg" crc="259345502" seo="true" ref="years">
+    <file name="沙子6.jpg" crc="257963353" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
     <file name="沙子6_2x.jpg" crc="4134914541" seo="true" ref="years">
       <caption webpage="years" alt=""/>
     </file>
+    <file name="u5653-4.png" crc="3934411760" ref="2019"/>
+    <file name="u5653-4_2x.png" crc="4073302649" ref="2019"/>
+    <file name="u5577-r.png" crc="80500029" ref="2019"/>
+    <file name="u5577-r_2x.png" crc="3999982174" ref="2019"/>
+    <file name="u5577-m.png" crc="4160634911" ref="2019"/>
+    <file name="u5577-m_2x.png" crc="4227633043" ref="2019"/>
+    <file name="u5664-4.png" crc="21765645" ref="2019"/>
+    <file name="u5664-4_2x.png" crc="4200888391" ref="2019"/>
+    <file name="p_20191111_152153.jpg" crc="4101976425" seo="true" ref="2019">
+      <caption webpage="2019" alt=""/>
+    </file>
+    <file name="p_20191111_152153_2x.jpg" crc="325638045" seo="true" ref="2019">
+      <caption webpage="2019" alt=""/>
+    </file>
+    <file name="u5657-r.png" crc="6008454" ref="2019"/>
+    <file name="u5657-r_2x.png" crc="302294446" ref="2019"/>
+    <file name="u5657-m.png" crc="193098233" ref="2019"/>
+    <file name="u5657-m_2x.png" crc="4209421784" ref="2019"/>
+    <file name="u5707-4.png" crc="3944948244" ref="2019"/>
+    <file name="u5707-4_2x.png" crc="159184131" ref="2019"/>
+    <file name="u5713-r.png" crc="320236721" ref="2019"/>
+    <file name="u5713-r_2x.png" crc="313466612" ref="2019"/>
+    <file name="u5713-m.png" crc="247834839" ref="2019"/>
+    <file name="u5713-m_2x.png" crc="4000906432" ref="2019"/>
+    <file name="u5767-4.png" crc="4196713969" ref="2019"/>
+    <file name="u5767-4_2x.png" crc="380016808" ref="2019"/>
+    <file name="u5791-4.png" crc="57589014" ref="2021"/>
+    <file name="u5791-4_2x.png" crc="162108770" ref="2021"/>
+    <file name="u193-6.png" crc="4070653509" ref="menu"/>
+    <file name="u193-6_2x.png" crc="62649813" ref="menu"/>
+    <file name="u877-5.png" crc="307890672" ref="menu"/>
+    <file name="u877-5_2x.png" crc="331983400" ref="menu"/>
+    <file name="u193-62.png" crc="67193585" ref="menu"/>
+    <file name="u193-6_2x2.png" crc="182003164" ref="menu"/>
+    <file name="u877-52.png" crc="3817148937" ref="menu"/>
+    <file name="u877-5_2x2.png" crc="401366732" ref="menu"/>
+    <file name="漫畫fb內頁_001223x223.jpg" crc="4276027223" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="漫畫fb內頁_001223x223_2x.jpg" crc="3838748212" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="logo185x185.jpg" crc="4241553629" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="logo185x185_2x.jpg" crc="89308779" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="p_20180716_151157-page-fr.jpg" crc="433505477" ref="phone>index"/>
+    <file name="p_20180716_151157-page-fr_2x.jpg" crc="90598604" ref="phone>index"/>
+    <file name="u6246-6.png" crc="4279698555" ref="phone>index"/>
+    <file name="u6246-6_2x.png" crc="354649256" ref="phone>index"/>
+    <file name="u6280-15.png" crc="399038212" ref="phone>index"/>
+    <file name="u6280-15_2x.png" crc="4107590439" ref="phone>index"/>
+    <file name="dsc_0414197x112.jpg" crc="471518025" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="dsc_0414197x112_2x.jpg" crc="477002513" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="smuf-0189x125.png" crc="12653980" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="smuf-0189x125_2x.png" crc="3925689371" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="smuf1-0188x124.jpg" crc="3805416799" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="smuf1-0188x124_2x.jpg" crc="476548654" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="4197x97.jpg" crc="460393691" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="4197x97_2x.jpg" crc="4227546273" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1573573680008113x86.jpg" crc="73103503" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1573573680008113x86_2x.jpg" crc="361043354" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="p_20191110_15411263x85.jpg" crc="3991687028" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="p_20191110_15411263x85_2x.jpg" crc="470571548" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="貼上的影像 1366x768-crop-u6444.jpg" crc="4032252503" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="貼上的影像 1366x768-crop-u6444_2x.jpg" crc="154274749" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="貼上的影像 1366x768-crop-u6442.jpg" crc="3964518987" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="貼上的影像 1366x768-crop-u6442_2x.jpg" crc="3851361303" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="a0807126主軸-021-crop-u6440.jpg" crc="405330597" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="a0807126主軸-021-crop-u6440_2x.jpg" crc="3938988275" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="a0807126主軸-032-crop-u6447.jpg" crc="330558353" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="a0807126主軸-032-crop-u6447_2x.jpg" crc="4000873347" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="沙子3-crop-u6450.jpg" crc="3894243675" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="沙子3-crop-u6450_2x.jpg" crc="111698257" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_2308-crop-u6452.jpg" crc="4196688890" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_2308-crop-u6452_2x.jpg" crc="160067938" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_2456-crop-u6454.jpg" crc="4196489398" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_2456-crop-u6454_2x.jpg" crc="371250081" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="沙子6-crop-u6456.jpg" crc="255237339" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="沙子6-crop-u6456_2x.jpg" crc="41196544" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u1469-5.png" crc="3836641321" ref="phone>menu"/>
+    <file name="u1469-5_2x.png" crc="255507103" ref="phone>menu"/>
+    <file name="u1461-5.png" crc="138844036" ref="phone>menu"/>
+    <file name="u1461-5_2x.png" crc="4251126464" ref="phone>menu"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="sky.css" crc="4177144828" ref="phone>sky"/>
-      <file name="nomq_sky.css" crc="3824530138" ref="phone>sky"/>
-      <file name="illustration.css" crc="14303673" ref="phone>illustration"/>
-      <file name="menu.css" crc="215982028" ref="phone>menu"/>
-      <file name="index.css" crc="395833814" ref="phone>index"/>
-      <file name="weird.css" crc="72829672" ref="phone>weird"/>
-      <file name="weird2.css" crc="85242511" ref="phone>weird2"/>
-      <file name="nomq_weird.css" crc="3824530138" ref="phone>weird"/>
-      <file name="nomq_illustration.css" crc="3824530138" ref="phone>illustration"/>
+      <file name="menu.css" crc="4290112302" ref="phone>menu"/>
+      <file name="index.css" crc="227159202" ref="phone>index"/>
+      <file name="work.css" crc="4191510360" ref="phone>work"/>
+      <file name="draw.css" crc="72829672" ref="phone>draw"/>
+      <file name="poster.css" crc="14303673" ref="phone>poster"/>
+      <file name="photo.css" crc="4177144828" ref="phone>photo"/>
+      <file name="nomq_photo.css" crc="3824530138" ref="phone>photo"/>
     </folder>
-    <file name="index.html" crc="3950241372" seo="true" mt="1611067518383" redirect="true"/>
-    <file name="weird2.html" crc="4010893482" seo="true" mt="1620748260481" redirect="true"/>
-    <file name="illustration.html" crc="3983470641" seo="true" mt="1632764764970" redirect="true"/>
-    <file name="menu.html" crc="4003302234" seo="true" mt="1611067039371" redirect="true"/>
-    <file name="weird.html" crc="44339266" seo="true" mt="1620843089628" redirect="true"/>
-    <file name="sky.html" crc="348058179" seo="true" mt="1620749306886" redirect="true"/>
+    <file name="index.html" crc="4007786101" seo="true" mt="1636118207244" redirect="true"/>
+    <file name="menu.html" crc="413881674" seo="true" mt="1636119143992" redirect="true"/>
+    <file name="work.html" crc="3837321219" seo="true" mt="1636119100799" redirect="true"/>
+    <file name="poster.html" crc="3876830843" seo="true" mt="1636118665733" redirect="true"/>
+    <file name="draw.html" crc="166713031" seo="true" mt="1636118687361" redirect="true"/>
+    <file name="photo.html" crc="71759988" seo="true" mt="1636118651296" redirect="true"/>
   </folder>
   <file name="index.html" crc="3796644124" seo="true" mt="1620841955471" redirect="true"/>
-  <file name="menu.html" crc="3791338794" seo="true" mt="1620889065128" redirect="true"/>
-  <file name="sky.html" crc="4079448648" seo="true" mt="1620804923288" redirect="true"/>
-  <file name="ill.html" crc="367764557" seo="true" mt="1632755882477" redirect="true"/>
-  <file name="drawing.html" crc="240817233" seo="true" mt="1632765539212" redirect="true"/>
-  <file name="2019.html" crc="81965464" seo="true" mt="1632762739636" redirect="true"/>
-  <file name="years.html" crc="4229822192" seo="true" mt="1632765463459" redirect="true"/>
-  <file name="2020.html" crc="4143046035" seo="true" mt="1632764460137" redirect="true"/>
-  <file name="2021.html" crc="3793094903" seo="true" mt="1632765398966" redirect="true"/>
+  <file name="menu.html" crc="86357721" seo="true" mt="1636117806636" redirect="true"/>
+  <file name="sky.html" crc="508793897" seo="true" mt="1636118651294" redirect="true"/>
+  <file name="ill.html" crc="4212329850" seo="true" mt="1636016592904" redirect="true"/>
+  <file name="drawing.html" crc="136485285" seo="true" mt="1636117361118" redirect="true"/>
+  <file name="2019.html" crc="465740921" seo="true" mt="1636117776555" redirect="true"/>
+  <file name="years.html" crc="183826144" seo="true" mt="1636117273208" redirect="true"/>
+  <file name="2020.html" crc="336109294" seo="true" mt="1636044742092" redirect="true"/>
+  <file name="2021.html" crc="4196533588" seo="true" mt="1636044818755" redirect="true"/>
 </manifest>

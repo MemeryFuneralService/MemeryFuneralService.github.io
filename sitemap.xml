@@ -8,20 +8,57 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://appli.com/phone/illustration.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <loc>http://appli.com/phone/poster.html</loc>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appli.com/phone/weird.html</loc>
-    <lastmod>2021-05-13</lastmod>
+    <loc>http://appli.com/phone/draw.html</loc>
+    <lastmod>2021-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appli.com/phone/photo.html</loc>
+    <lastmod>2021-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appli.com/sky.html</loc>
+    <lastmod>2021-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appli.com/images/469400141453x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/469400141453x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/469400141.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/469400141_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appli.com/menu.html</loc>
+    <lastmod>2021-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/menu.html"/>
+  </url>
+  <url>
+    <loc>http://appli.com/phone/work.html</loc>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://appli.com/ill.html</loc>
-    <lastmod>2021-09-27</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,40 +96,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appli.com/menu.html</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/menu.html"/>
-  </url>
-  <url>
-    <loc>http://appli.com/sky.html</loc>
-    <lastmod>2021-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://appli.com/phone/sky.html"/>
-    <image:image>
-      <image:loc>http://appli.com/images/469400141453x300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/469400141453x300_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/469400141.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/469400141_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://appli.com/phone/weird2.html</loc>
-    <lastmod>2021-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://appli.com/drawing.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -130,12 +135,6 @@
     </image:image>
     <image:image>
       <image:loc>http://appli.com/images/goat_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001261x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001261x262_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://appli.com/images/%E5%A4%9C%E6%99%9A%E7%9A%84%E8%81%B2%E9%9F%B3_001.jpg</image:loc>
@@ -198,12 +197,21 @@
       <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%AB1319x451_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/logo217x217.jpg</image:loc>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001223x223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/%E6%BC%AB%E7%95%ABfb%E5%85%A7%E9%A0%81_001223x223_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/logo185x185.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/logo185x185_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://appli.com/2019.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -249,12 +257,6 @@
       <image:loc>http://appli.com/images/9_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appli.com/images/dsc01693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appli.com/images/dsc01693_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://appli.com/images/p_20200329_133830.jpg</image:loc>
     </image:image>
     <image:image>
@@ -272,10 +274,16 @@
     <image:image>
       <image:loc>http://appli.com/images/4465x226_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20191111_152153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appli.com/images/p_20191111_152153_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appli.com/years.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -365,7 +373,7 @@
   </url>
   <url>
     <loc>http://appli.com/2020.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -389,7 +397,7 @@
   </url>
   <url>
     <loc>http://appli.com/2021.html</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
